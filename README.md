@@ -1,4 +1,4 @@
-# Lissandra File System
+# Lissandra
 
 #### Trabajo Práctico Grupal realizado por el grupo _Bugbusters_ para la materia _Sistemas Operativos_ en la UTN FRBA - 1er cuatrimestre 2019
 
